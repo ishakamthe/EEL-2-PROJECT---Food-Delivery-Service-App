@@ -1,6 +1,6 @@
-# 🍔 Quick Platter – Food Delivery App
+# Quick Platter – Food Delivery App
 
-## 📌 Overview
+##Overview
 
 Quick Platter is a modern food delivery mobile application designed to provide users with a fast, smooth, and user-friendly online food ordering experience. The app allows customers to browse restaurants, explore cuisines, add food items to cart, and place orders conveniently through an attractive interface.
 
@@ -8,9 +8,9 @@ The main objective of this project is to simplify the food ordering process and 
 
 ---
 
-# ✨ Features
+#Features
 
-## 👤 User Features
+##User Features
 
 * User-friendly interface
 * Responsive mobile design
@@ -24,7 +24,7 @@ The main objective of this project is to simplify the food ordering process and 
 
 ---
 
-# 🍕 Food Categories
+#Food Categories
 
 The app provides multiple cuisine options such as:
 
@@ -37,7 +37,7 @@ The app provides multiple cuisine options such as:
 
 ---
 
-# 🛒 Cart & Ordering System
+#Cart & Ordering System
 
 * Add food items to cart
 * Increase or decrease quantity
@@ -47,7 +47,7 @@ The app provides multiple cuisine options such as:
 
 ---
 
-# 🎨 UI/UX Design
+#UI/UX Design
 
 The application focuses on:
 
@@ -60,7 +60,7 @@ The application focuses on:
 
 ---
 
-# 📱 Application Screens
+#Application Screens
 
 1. Splash Screen
 2. Home Dashboard
@@ -72,7 +72,7 @@ The application focuses on:
 
 ---
 
-# ⚙️ Technologies Used
+#Technologies Used
 
 ## Frontend
 
@@ -97,7 +97,7 @@ https://www.figma.com/design/xb1HtuTEdGNnW0VcWDDDdQ/Untitled?node-id=34-2&t=vQ12
 
 ---
 
-# 📂 Project Structure
+#Project Structure
 
 ```bash
 Quick-Platter/
@@ -113,7 +113,7 @@ Quick-Platter/
 
 ---
 
-# 🚀 Working of the Application
+#Working of the Application
 
 ## Step 1 – Splash Screen
 
@@ -150,7 +150,7 @@ Users can proceed to place their order successfully.
 
 ---
 
-# 📸 Key Highlights
+#Key Highlights
 
 * Fast food ordering system
 * Attractive mobile interface
@@ -160,7 +160,7 @@ Users can proceed to place their order successfully.
 
 ---
 
-# 🔮 Future Enhancements
+#Future Enhancements
 
 * Online payment integration
 * Live order tracking
@@ -172,7 +172,7 @@ Users can proceed to place their order successfully.
 
 ---
 
-# 🎯 Objective
+#Objective
 
 The main objectives of Quick Platter are:
 
@@ -183,14 +183,17 @@ The main objectives of Quick Platter are:
 
 ---
 
-# 📖 Conclusion
+#Conclusion
 
 Quick Platter is a modern food delivery application prototype that combines simplicity, functionality, and attractive design to provide users with a smooth and efficient food ordering experience.
 
 ---
 
-# 👨‍💻 Developed By
+#Developed By
 
-Quick Platter Team
+Sharwari Deshpande
+Shriya Deshpande
+Siddhi Illamalle
+Isha Kamthe
 
 ---
