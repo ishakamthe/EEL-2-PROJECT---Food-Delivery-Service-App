@@ -92,6 +92,9 @@ The application focuses on:
 * VS Code
 * GitHub
 
+Figma Prototype Link
+https://www.figma.com/design/xb1HtuTEdGNnW0VcWDDDdQ/Untitled?node-id=34-2&t=vQ12pRsXPRE0v2D4-1
+
 ---
 
 # 📂 Project Structure
