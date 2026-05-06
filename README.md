@@ -1,6 +1,6 @@
 # Quick Platter – Food Delivery App
 
-##Overview
+#Overview
 
 Quick Platter is a modern food delivery mobile application designed to provide users with a fast, smooth, and user-friendly online food ordering experience. The app allows customers to browse restaurants, explore cuisines, add food items to cart, and place orders conveniently through an attractive interface.
 
@@ -10,7 +10,7 @@ The main objective of this project is to simplify the food ordering process and 
 
 #Features
 
-##User Features
+#User Features
 
 * User-friendly interface
 * Responsive mobile design
